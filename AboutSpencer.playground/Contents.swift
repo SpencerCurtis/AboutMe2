@@ -1,3 +1,4 @@
 import UIKit
 
-var str = "Hello, playground"
+let myName = "Spencer"
+let hobbies = "iOS development, photography, OneWheeling"
